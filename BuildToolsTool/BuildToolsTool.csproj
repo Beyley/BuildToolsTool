@@ -8,6 +8,9 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <PackageReference Include="libclang" Version="13.0.1" />
+      <PackageReference Include="libclang.runtime.win-x64" Version="13.0.0" />
+      <PackageReference Include="libClangSharp.runtime.win-x64" Version="13.0.0-beta1" />
       <PackageReference Include="Silk.NET.BuildTools" Version="2.16.0" />
       <PackageReference Include="Ultz.Private.ClangSharp" Version="2021.10.17-nightly" />
     </ItemGroup>
