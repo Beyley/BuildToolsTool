@@ -9,6 +9,7 @@
 
     <ItemGroup>
       <PackageReference Include="Silk.NET.BuildTools" Version="2.16.0" />
+      <PackageReference Include="Ultz.Private.ClangSharp" Version="2021.10.17-nightly" />
     </ItemGroup>
 
 </Project>
